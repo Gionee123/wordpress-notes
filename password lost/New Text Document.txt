@@ -1,0 +1,57 @@
+ phpMyAdmin se:
+Go to http://localhost/phpmyadmin
+
+WordPress database select karo
+
+Table: wp_users ➜ Browse  // users ko dekhna hai ,blog_users,ecommerce_users,lodha_users
+
+Edit the user row
+
+//mene user_login me username "demo" rekha hai aur user_password bhi "demo rekha hai
+
+user_pass me:   //user_pass mai MD5 select karge
+
+Function: MD5
+
+Value: demo
+
+Save ➜ Login karo demo se
+
+
+//////////////////////
+1. Go to phpMyAdmin:
+Apne browser mein open karo: http://localhost/phpmyadmin
+
+2. WordPress Database Select Karo:
+Left sidebar mein apne WordPress wale database par click karo (jo aapne WordPress install karte waqt banaya tha).
+
+3. wp_users Table Open Karo:
+Database ke andar wp_users naam ki table par click karo. Yehi table sabhi WordPress users ka data rakhti hai.
+
+4. Users Browse Karo:
+Browse tab par click karo taaki aapko sabhi users ki list dikh jaye.
+
+5. User Row Edit Karo:
+Jis user ka password change karna hai uski row dhoondo. Yahan par hum “demo” user ka example le rahe hain.
+Us row ke end mein jo pencil icon hai uspe click karo (edit karne ke liye).
+
+6. user_login Update Karo:
+user_login wale field mein “demo” likho (ya jo bhi username chahiye ho).
+
+7. user_pass Update Karo:
+
+user_pass wale field ke Function column mein se MD5 select karo.
+
+Value column mein “demo” likho (ye password plain text mein hoga, lekin MD5 mein convert ho jayega jab aap save karoge).
+
+8. Save Changes:
+Neeche scroll karo aur Save button par click karo.
+
+9. WordPress Login Page pe Jao:
+Browser mein jao: http://localhost/wp-login.php
+Ab login karo:
+
+Username: demo
+
+Password: demo
+

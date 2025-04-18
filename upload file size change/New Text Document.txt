@@ -1,0 +1,18 @@
+max_execution_time = 600 ; pehal 120 tha 600 mene kiya hai matlab ab PHP script 10 minutes (600 seconds) tak run kar sakti hai bina timeout ke.
+
+
+max_input_time = 300 ; pehal 60 tha 300 mene kiya hai matlab ab PHP script 5 minutes (600 seconds) tak run kar sakti hai bina timeout ke.
+
+
+upload_max_filesize = 300M ; pehle 2M tha, maine ise 300M kiya hai — iska matlab ab ek single file ka maximum upload size 300MB ho gaya hai.
+
+
+max_file_uploads = 200 ; pehle 20 tha, maine ise 200 kiya hai — iska matlab hai ab ek single request me maximum 200 files upload ki ja sakti hain.
+
+
+post_max_size = 200M ; pehle 8M tha, maine ise 200M kiya hai — iska matlab hai ab ek POST request me maximum 200MB tak ka data (jaise form data ya file uploads) bheja ja sakta hai.
+
+
+
+
+
