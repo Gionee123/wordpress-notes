@@ -1,0 +1,142 @@
+Appearance me common page
+
+Themes , Customize , Widgets , Menus , 
+Theme File Editor,  Background ,  Templates 
+
+
+1)-> Themes
+
+2)-> Customize -> Site Identity (Logo, Site Title, Tagline, Favicon)
+
+Colors
+
+Menus
+
+Widgets
+
+Homepage Settings
+
+Additional CSS
+
+3)-> Widgets -> Sidebar, footer, ya kisi widget area me content (text, images, menus, etc.) add karne ke liye.
+
+Drag and drop interface hota hai.
+
+4)-> Menus -> Navigation menus create aur manage karne ke liye.
+
+Aap custom links, pages, posts ko menu me add kar sakte ho.
+
+Menu locations bhi assign karte ho (e.g., header, footer).
+
+5)-> Theme File Editor->  (kabhi kabhi "Editor" ya "Theme Editor" bhi likha hota hai)
+
+Yahan se aap theme ke PHP, CSS files ko directly edit kar sakte ho (like style.css, functions.php, etc.).
+
+Note: Yeh risky ho sakta hai agar galti ho jaaye to site down bhi ho sakti hai.
+
+6)-> Background / Header Image-> (theme-specific)
+
+Kuch themes me yeh options alag se show hote hain jahan se background ya header image customize kar sakte ho.
+
+7)-> Templates / Patterns->  (Gutenberg themes me)
+
+Block-based themes me aap different templates aur patterns customize ya create kar sakte ho.
+
+
+
+
+ settings option
+
+General ,Writing  ,Reading  ,Discussion  ,Media  ,Permalinks  ,Privacy 
+
+
+ WordPress Settings ke Andar Ye Options Hote Hain:
+1. General Settings
+Site Title – Aapki website ka naam.
+
+Tagline – Ek short description (e.g., "Just another WordPress site").
+
+WordPress Address (URL) – Site ki root URL.
+
+Site Address (URL) – Site kis URL se access hoti hai.
+
+Admin Email Address – Important notifications ke liye.
+
+Membership – Kya koi bhi user register kar sakta hai?
+
+New User Default Role – New users ka default role (Subscriber, Editor, etc.).
+
+Timezone, Date Format, Time Format, Week Starts On – Time aur date ki settings.
+
+
+
+2. Writing Settings
+Default Post Category – Jab category choose na ho to default.
+
+Default Post Format – (e.g., Standard, Video, Gallery).
+
+Post via Email – Email ke through post karne ka option (rarely used).
+
+Update Services – Jab aap naya post publish karte ho to ping services ko notify karta hai.
+
+
+
+3. Reading Settings
+Your homepage displays – Aapki homepage kya dikhaye? (Latest posts ya ek static page).
+
+Blog pages show at most – Ek page me kitne posts dikhe.
+
+Syndication feeds show the most recent – RSS feed me kitne items ho.
+
+For each article in a feed, show – Full text ya summary.
+
+Search engine visibility – Aap search engines ko block karna chahte hain ya nahi.
+
+
+
+4. Discussion Settings
+Default post settings – Comments allow karna ya nahi.
+
+Other comment settings – Name, email zaruri ho ya nahi, auto-close comments, etc.
+
+Email me notifications – Jab koi comment aaye ya hold me ho.
+
+Comment moderation – Kaunse comments approval ke bina show ho.
+
+Blacklist – Specific words/IPs ko block karna.
+
+Avatars – Users ke avatars show karna ya nahi.
+
+
+
+5. Media Settings
+Thumbnail size, Medium size, Large size – Jab images upload hoti hain to auto resize hoke ye sizes banti hain.
+
+Uploading files – Files kis folder me save hongi.
+
+
+
+6. Permalinks Settings
+URL structure define karta hai (e.g., example.com/post-name)
+
+Aap apne blog ke URL ko SEO-friendly bana sakte ho.
+
+Plain
+
+Day and name
+
+Month and name
+
+Numeric
+
+Post name (most used)
+
+Custom structure
+
+
+
+7. Privacy Settings
+Yahan aap ek Privacy Policy page set kar sakte hain.
+
+WordPress suggest karta hai ki aapke website me privacy policy ho, especially agar aap data collect karte hain.
+

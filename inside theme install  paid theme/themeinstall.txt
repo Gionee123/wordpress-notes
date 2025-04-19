@@ -1,0 +1,46 @@
+https://wordpress.org/themes/
+
+wamserver folder open,
+
+www folder ke aandhar, // wapserver ke liye
+
+blog_website mere folder ka name hai,
+
+wp-content folder ke andhar,
+
+themes name ka folder hai,
+
+folder me  paste karna hai jo mene (astra theme) download kiya hai,
+
+
+
+
+
+XAMPP ke andar Astra Theme install karne ka tarika:
+https://wordpress.org/themes/ open karo
+
+Astra theme download karo (zip file me)
+
+XAMPP ka folder open karo
+
+htdocs folder ke andar jao
+
+blog_website naam ka folder open karo (ye aapki WordPress site hai)
+
+Uske andar wp-content folder open karo
+
+Uske andar themes naam ka folder open karo
+
+Astra theme ka zip file extract karo
+
+Extract hone ke baad jo astra folder milega, usse copy/paste karo:
+
+
+
+
+
+paid them download karne ke liye:
+
+https://themelock.com/eng/
+
+
