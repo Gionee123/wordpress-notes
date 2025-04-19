@@ -1,0 +1,40 @@
+WordPress के Customize सेक्शन (Appearance > Customize) में आपको अपनी वेबसाइट को बिना कोडिंग के एडिट करने के लिए ये मुख्य ऑप्शन मिलते हैं:
+
+1. Site Identity (वेबसाइट की पहचान)
+Logo – अपना लोगो अपलोड करें
+
+Site Title & Tagline – वेबसाइट का नाम और टैगलाइन
+
+Site Icon (Favicon) – ब्राउज़र टैब में दिखने वाला छोटा आइकन
+
+2. Colors & Background (रंग और बैकग्राउंड)
+Main Color Scheme – बटन, लिंक्स का कलर
+
+Background Color/Image – पेज की बैकग्राउंड इमेज या कलर
+
+3. Header & Navigation (हैडर और मेन्यू)
+Header Image – टॉप पर बैनर इमेज
+
+Menu Setup – नेविगेशन मेन्यू (Home, About, Contact आदि)
+
+Sticky Header – स्क्रॉल करते समय हैडर को फिक्स रखें
+
+4. Homepage Settings (होमपेज सेटअप)
+Static Page – होमपेज के लिए कस्टम पेज चुनें
+
+Blog Posts – लेटेस्ट पोस्ट्स को होमपेज पर दिखाएं
+
+5. Widgets (साइडबार/फुटर एलिमेंट्स)
+Sidebar – सर्च बार, रेसेंट पोस्ट्स, कैटेगरीज जोड़ें
+
+Footer – कॉपीराइट टेक्स्ट, सोशल मीडिया आइकन्स
+
+6. Additional CSS (एडवांस्ड स्टाइलिंग)
+अपनी खुद की CSS कोड डालकर डिज़ाइन कस्टमाइज़ करें
+
+7. Theme-Specific Options (थीम के अनुसार)
+Fonts – टेक्स्ट का स्टाइल और साइज़
+
+Layout – पोस्ट्स की कॉलम संख्या
+
+Social Media Links – फेसबुक, इंस्टाग्राम के लिंक

@@ -1,0 +1,66 @@
+ Core WordPress Widgets
+Text/HTML - Add custom text, HTML or shortcodes
+
+Search - Adds a search box
+
+Recent Posts - Shows most recent articles
+
+Recent Comments - Displays latest comments
+
+Archives - Monthly post archives
+
+Categories - List of all categories
+
+Tag Cloud - Visual display of tags
+
+Calendar - Post calendar
+
+Image - Insert an image
+
+Gallery - Display image gallery
+
+Audio/Video - Media players
+
+Custom Menu - Display navigation menus
+
+Meta - Login, RSS, WordPress.org links
+
+Pages - List of all pages
+
+RSS - Display RSS feeds
+
+
+
+🛒 eCommerce Widgets (WooCommerce)
+• Product Search
+• Product Categories
+• Cart
+• Product Tags
+• Top Rated Products
+• Recently Viewed
+• Price Filter
+• Layered Nav (filtering)
+
+
+
+
+📱 Social Media Widgets
+• Social Icons (by many plugins)
+• Facebook Like Box
+• Instagram Feed
+• Twitter Timeline
+
+
+
+
+📊 Advanced Plugin Widgets
+• Contact Forms (Contact Form 7)
+• Testimonials
+• Google Maps
+• Newsletter Signup
+• Table of Contents
+• Weather
+• Polls/Surveys
+• Events Calendar
+• Team Members
+• Countdown Timer

@@ -1,0 +1,74 @@
+Step 1: WordPress Admin Mein Login Kare
+
+Apni website ke URL ke aage /wp-admin add kare (example: yourwebsite.com/wp-admin)
+
+Apna username aur password daalkar login kare
+
+Step 2: Posts Section Mein Jaaye
+
+Left sidebar menu se:
+➡️ "Posts" par click kare
+➡️ "Add New" button par click kare
+
+
+Step 3: Post Ka Content Add Kare
+✔ Title (Heading):
+
+Upar wale box mein apne post ka title likhe
+
+✔ Main Content:
+
+Neeche wale editor mein apna content likhe
+
+Formatting ke liye:
+
+Bold/Italic karne ke liye toolbar use kare
+
+Heading (H2, H3) add kar sake hai
+
+Media add karne ke liye:
+
+"+" button ya "Add Media" button par click kare
+
+
+
+Step 4: Category aur Tags Set Kare
+
+Right sidebar mein:
+🔹 Categories:
+
+Existing categories select kare
+
+Ya "Add New Category" se nayi category banae
+🔹 Tags:
+
+Related tags comma se separate karke enter kare
+
+
+
+Step 5: Featured Image Set Kare
+
+Right sidebar mein:
+
+"Featured Image" section dhundhe
+
+"Set featured image" par click kare
+
+Media library se image select kare ya nayi image upload kare
+
+"Set featured image" button par click kare
+
+
+
+Step 6: Preview Dekhe (Optional)
+
+Right sidebar mein "Publish" section mein:
+👀 "Preview" button par click karke post kaise dikhega dekh sakte hai
+
+
+
+Step 7: Post Publish Kare
+
+Jab sab ready ho:
+✅ "Publish" button par click karke post live kare
+✅ Ya "Save Draft" par click karke baad mein publish kar sake hai

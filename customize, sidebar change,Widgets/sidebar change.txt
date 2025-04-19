@@ -1,0 +1,44 @@
+WordPress में Sidebar की Position कैसे बदलें?
+WordPress में साइडबार की पोजीशन बदलने के लिए आपको थीम सेटिंग्स या कस्टम कोड का उपयोग करना होगा। यहां सभी तरीके हिंदी में समझाए गए हैं:
+
+
+1. थीम कस्टमाइज़र से (सबसे आसान तरीका)
+WordPress डैशबोर्ड में जाएं
+
+Appearance > Customize पर क्लिक करें
+
+Widgets सेक्शन में जाएं
+
+अगर थीम सपोर्ट करती है तो आपको Sidebar Position का ऑप्शन मिलेगा
+
+यहां से Left/Right/None में से चुनें
+
+
+
+2. थीम ऑप्शन्स से (कुछ थीम्स में)
+Appearance > Theme Options में जाएं
+
+Layout Settings ढूंढें
+
+Sidebar Position या Page Layout चुनें
+
+सामान्य विकल्प:
+
+Left Sidebar
+
+Right Sidebar
+
+No Sidebar (Full Width)
+
+
+
+3. पेज बिल्डर से (Elementor, Divi, Beaver Builder)
+पेज एडिटर में पेज खोलें
+
+पेज बिल्डर लॉन्च करें
+
+Page Settings या Layout Options में जाएं
+
+Sidebar Position चुनें
+
+सेव करें
