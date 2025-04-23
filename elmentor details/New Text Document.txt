@@ -1,0 +1,7 @@
+elementor details
+
+1) elementor page setting me "Elementor canvas" ka option choice kare gey to header or footer bhi hut jayge pure khali page ho jayge multiple page ke website me is kya use nahi lete hai.
+
+2) smart slider3 install karne ke bad elemantor ke andhar aa jata hai.search (smart slider) karne per show ho jata hai.
+
+3) "Motion Effects" last me puri website bane ke baad lagna chiye

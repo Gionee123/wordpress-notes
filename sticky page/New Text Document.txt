@@ -1,0 +1,13 @@
+ 1) First method 
+WordPress Dashboard → Settings → Reading.
+
+"Your homepage displays" → Select "A static page". // (Homepage page me Home) aur (Posts page me Blog)
+
+"Homepage" dropdown me apna desired page select karo.
+"Postspage" dropdown  me Blog
+
+Save changes.
+
+
+2) second method 
+Appearance -> Customize -> Homepage Settings

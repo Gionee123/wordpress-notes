@@ -1,0 +1,36 @@
+wamservwer me 
+1) www   wale folder me
+2) apni website folder me ,meri website folder hai (blog_website)
+3)wp-content
+4)themes
+5)zita (abhi zita theme use le raha hu)
+6)header.php (header.php ko vs code me open karge 
+7) <header> </header> (</header> close ho raha hai us ke nich php ka code jo slider3 se mila hai use past kar de ge)
+
+note 1 -> ye slider sabhi page per dekh ga,home ,about ,course,blog sabhi page per dekh ga, abhai is code ka use liya hai
+
+<?php
+echo do_shortcode('[smartslider3 slider="2"]');
+?>
+
+note 2-> magar muje ake he page per dekhna hai home page per to if ke andhar condition lag ne padge
+
+<?php
+if(is_front_page()){
+	echo do_shortcode('[smartslider3 slider="2"]');
+}
+
+?>
+
+note 3-> magar muje two page  per dekhna hai "home page" or "about-us" per to (all pages me jakar about us per "edit" karna hai abe url dekh ge to url per page ke id hoti hai (http://localhost/blog_website/wp-admin/post.php?post=9&action=edit) is url me "id 9" hai to ye wala code paste karge 
+
+<?php
+if(is_front_page() or get_the_id()==9) {
+	echo do_shortcode('[smartslider3 slider="2"]');
+}
+?>
+
+
+
+
+
