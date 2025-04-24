@@ -1,0 +1,33 @@
+note-1-> one page ke website ( Portfolio,Freelancers / Personal Branding,Product Launch / App Promo,Event / Conference Website,Small Business / Startup, Resume / CV Website, Coming Soon / Under Construction Page)
+
+note-2-> bloging ke website kabhi bhi one page ke liye nahi hoti hai,
+
+note -3-> upper ke site ake bhi page call nahi hoga .one page me custom link banane te hai
+
+1) home page ko main page banana hai, is ke liye (setting->Reading-> A static page (select below) ko "home" select karo) ,second method(Apperance -> customize -> Homepage settings -> Homepage -> home)
+
+2) Appearance -> menu-> Custom Links
+URL -> #home  // ye page Home page wala page nahi hai custmo link wala home page hai
+Link Text -> Home 
+
+URL -> #about
+Link Text -> About
+
+URL -> #price
+Link Text -> Price 
+
+URL -> #faq
+Link Text -> Faq 
+
+URL -> #testimonial
+Link Text -> testimonial
+
+3) elementor ke andhar three dots per click kar ke. layout,style,advanced option open hoga in me se Advanced option me jana hai
+Advanced -> CSS ID -> home // is per # ka use nahi lena
+Advanced -> CSS ID -> about// is per # ka use nahi lena
+Advanced -> CSS ID -> price // is per # ka use nahi lena
+Advanced -> CSS ID -> faq // is per # ka use nahi lena
+Advanced -> CSS ID -> testimonial // is per # ka use nahi lena
+
+
+
