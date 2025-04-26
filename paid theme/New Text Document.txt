@@ -1,0 +1,15 @@
+ paid theme install inside folder
+ 
+ wamserver-> www -> travel (is name folder datebase hai) -> wp-content -> themes -> parent or child theme ko unzip karno
+
+Ab jao WordPress admin me:
+
+Appearance > Themes
+
+Aapko Traveltour aur Traveltour Child dono dikhai denge.
+
+Aap Child Theme (traveltour-child) ko Activate karo (recommended).
+
+note-> child theme active karge koi child me kabhi bhi update nahi aata
+
+Isse future updates ke baad aapke changes safe rahenge.

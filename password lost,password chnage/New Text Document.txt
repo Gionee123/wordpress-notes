@@ -55,3 +55,13 @@ Username: demo
 
 Password: demo
 
+-------------------------------------------------------------------------------------------------------------
+wordpress me "password" or "email" id andhar se change(Dashboard se password change karna (agar admin access ho))
+
+email id change -> settings -> General -> Administration Email Address
+
+password change -> users -> All Users -> Edit -> Account Management -> "Set New Password" -> update profile
+
+note-1-> (WordPress Address (URL)) and (Site Address (URL)) kabhi change nahi karna nahi to website band ho jaye ge
+
+

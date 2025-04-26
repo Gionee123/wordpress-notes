@@ -72,3 +72,10 @@ Step 7: Post Publish Kare
 Jab sab ready ho:
 ✅ "Publish" button par click karke post live kare
 ✅ Ya "Save Draft" par click karke baad mein publish kar sake hai
+
+
+---------------------------------------------------------------------------------------------------------------
+blog wale page ko folder ke andhar se change karne ke liye
+
+
+wamserver -> www -> travel ->(ye mere database ka name hai) -> wp-content -> themes -> index.php 
