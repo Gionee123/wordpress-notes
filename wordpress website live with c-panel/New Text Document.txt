@@ -1,0 +1,58 @@
+website live karne ke liye
+
+my domin
+
+(http://parchamclasses.com) -> jab ayye ga jab apke pass "domin" hoga
+
+(http://parchamclasses.com/cpanel) -> jab ayye ga jab apke pass "hosting" hogi
+
+local se online data setup karna
+
+cPanel -> DATABASES -> MYSQL@DatabaseWizard -> 
+
+Step 1:Create A Database (travel) -> DBNAME hai ye
+
+Step 2: Create A Database Users : (username:travel),(password:travel123), (password(Again):travel123),  create user kar ge
+
+Step 3: Add user to the database.("ALL PRIVILEGES" per click kar ge aur sabhi checkbox per click kre ge)
+
+
+Step 4: Complete the Task
+
+abe vapse se "cpanel" ke andhar jao
+
+DATABASES -> phpMyAdmin -> jesa local per open hua tha vesa php my admin open hoga 
+
+"second window" me local wale php my admin  bhi open kre ge -> Export ->Exporting tables from "travel" database
+
+jo database local me download hua hai us me kuch changes karne pedge -> open -> vs-code -> ctrl + h -> (local url ye hai (http://localhost/travel) -> is name ko apne live url se replace kar do har jagah se (http://parchamclasses.com)
+
+local url->http://localhost/travel
+live url->http://parchamclasses.com
+
+online php my admin me import kar le ge -> Emport -> Importing into the database "travel" -> choose file -> upload file
+
+note -> phpmy admin me local (my pc ) se export aur online me (Import) karna hai
+
+
+wamserver -> www -> travel -> jese website ko live karna hai us ke local me zip bane lo -> zip file ko ->cpanel -> FILES -> File Manager -> public.html -> khali ho ga zip file ko upload kar do upload per green sign anan chiye ->  right click kar ke extracting kar do -> muje "travel" wesite ka folder nahi chiye balki sari file chiye -> undar ka data "select All" kar ke -> MOVE kar ke public.html me puch do ge
+
+is ke bad publie.html -> wp-confing.php->
+
+define( 'DB_NAME', 'travel' );
+
+/** Database username */
+define( 'DB_USER', 'travel' );
+
+/** Database password */
+define( 'DB_PASSWORD', 'travel123' );
+
+
+website online ho gayi hai
+
+kuch settings karni padge
+
+
+note -> phpmy admin me local (my pc ) se "export" aur online me (Import) karna hai
+
+

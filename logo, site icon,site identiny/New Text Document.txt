@@ -1,0 +1,9 @@
+site title, tagline, aur site icon set karne ke methods
+
+First method
+
+Apperance -> customize -> Site identity -> Site Identity -> (site title,tagline,site icon)
+
+Second method
+
+Setting -> General -> 
