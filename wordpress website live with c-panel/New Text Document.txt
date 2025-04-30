@@ -47,6 +47,9 @@ define( 'DB_USER', 'travel' );
 /** Database password */
 define( 'DB_PASSWORD', 'travel123' );
 
+/** Database hostname */
+define( 'DB_HOST', 'localhost' );
+
 
 website online ho gayi hai
 
@@ -54,5 +57,16 @@ kuch settings karni padge
 
 
 note -> phpmy admin me local (my pc ) se "export" aur online me (Import) karna hai
+
+note -> local aur online dono ka php version same hona chiye online hosting me php version change karne ka option aata hai
+
+note -> Appearance -> Menus -> Header menu (select  kar ge) -> Menu settings me check kar ge (Header Menu)
+
+note -> Appearance -> Customize -> site identity -> logo change
+
+
+note -> Settings -> permalinks -> plain -> save karna hai ,abe vapse se plain ko change kar ke -> post name (karna padga)
+
+note -> jo jo data nahi aa rahe hai unko option ko check karna padga
 
 
