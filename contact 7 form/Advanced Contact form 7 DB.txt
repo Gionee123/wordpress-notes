@@ -1,0 +1,13 @@
+Advanced Contact form 7 DB
+
+contact form 7 se reltive hai
+
+Advanced CF7 DB ke option per click karo
+
+
+Select Form name -> select form name -> (contact form 1) select kiya hai
+
+all data show hoga -> (your-name,your-email,your-subject,your-message,Address,mobilenumber,calender,file-566	,submit_time,submit_ip )
+
+
+note -> data excel,csv me export bhi ho jayga

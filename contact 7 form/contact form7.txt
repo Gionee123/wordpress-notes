@@ -1,0 +1,59 @@
+Contact Form 7 //By Takayuki Miyoshi
+
+note1-> local per contact form 7 work  nahi karta hai
+
+conact Form 7 me add karne ke liye
+
+step1->  
+<label>Address     </label> (label tag open or close kiya hai only ,open tag ke pass mujde address ke field add karni hai)
+
+
+step2-> (text, email, URL, telnumber, date, textarea, drop-down, menu, checkboxes, radio, buttons, acceptance, quiz, file, submit) upper ke site me show hoge .main address ka fiels ke liye textarea ke selection kiya hai
+
+step 3 save kar do,shortcode diya hoga uska use lo
+
+
+
+
+note mene jo field bane hai (address,mobileumber,date of birthday,file_add
+
+<label>Address[textarea* Address placeholder] please add your address [/textarea*]</label>
+
+<lable>mobile number[tel* mobilenumber autocomplete:tel placeholder "mobile number"]</label>
+
+<label>Date of birth[date* calender "2025-05-01"]</label>
+
+<label> Add file [file file-566 filetypes:audio/*|video/*|image/* limit:1mb]  </label>
+
+
+Email-> configer kar ge is step se
+
+mail ke option per click kar ge,
+
+
+To-> keso mail send karna hai
+
+From -> kese se mail aa raha hai
+
+Subject	-> Enuiry mail hai
+
+Additional headers -> me kuch nahi kar na
+
+Message body	->Name:[your-name]
+                 Email:[your-email]
+                 Your subject:[your-subject]
+                 message:[your-message]
+                 address:[Address]
+                 mobile: [mobilenumber]
+                 date of birth day:[calender]
+                 file:[file-566]  message bane padge
+
+ Use HTML content type (check bhi karna hai)
+
+
+
+note-> (left wale fiel mene kude se lekh hai,aur right wale field upper diya hua hoga ([your-name][your-email][your-subject][your-message][Address][mobilenumber][calender][file-566])
+
+
+
+
