@@ -1,0 +1,7 @@
+ yoast seo plugin install kar ge
+
+site map open ke liye 
+
+baseurl-> http://localhost/blog_website/
+
+Sitemap open karne ke liye -> http://localhost/blog_website/sitemap_index.xml

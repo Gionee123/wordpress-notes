@@ -1,0 +1,22 @@
+Recaptcha 
+
+WordPress में reCAPTCHA का उपयोग मुख्य रूप से स्पैम और बॉट्स से सुरक्षा के लिए किया जाता है। यह Google की एक सेवा है जो यह जांचती है कि फॉर्म भरने वाला इंसान है या बॉट। WordPress वेबसाइट पर इसे कई जगहों पर लगाया जा सकता है, 
+
+स्पैम  rokne ke liye kiya jata hai,
+
+step 1 left side me ->contact -> integration -> reCAPTCHA
+
+google.com/recaptcha -> clcik karo
+
+https://www.google.com/recaptcha/admin/create (is link ka use kare ge)
+
+reCAPTCHA type :v3
+
+Domains:naveen.lovestoblog.com
+
+copy site key: 6LeIuC8rAAAAABhBXD4ADz4Nuex00-tvdFVqeTgD
+
+copy seceret key: 6LeIuC8rAAAAAP19JKHAfW3CcckkNXwiujbE4NQf
+        
+past kar do
+ 

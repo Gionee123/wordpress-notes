@@ -1,0 +1,49 @@
+step 1 add new form
+
+step 2 Name Your Form -> (Contact Form New-> mene khude se diya hai)
+
+step 3 simple form template ka use kiya hai mene
+
+step 4 muje first name ke jagh "simple","first last",first middle Last" click karne per drop down me ye option open ho jayge
+
+step 5 Notification -> Send To Email Address -> ye wali email id -> settings -> Genernal -> Administration Email Address	
+
+Send To Email Address : naveensainijpr@gmail.com (kese ko send karna hai)
+
+Email Subject Line : New Entry: Contact Form New
+
+From Name : trave (kuch bhi lekh sekte ho)
+
+From Name :
+
+
+
+
+step 6 save karo
+
+step 7  [wpforms id="142"]	-> short code diya hai
+
+
+
+SMTP configure 
+
+Step 1 of 6
+
+step 1 Choose Your SMTP Mailer (Other SMTP)
+
+step 2 SMTP Host:smtp.gmail.com
+       Encryption:SSL
+       SMTP Port : 465
+       SMTP Username :naveensainijpr@gmail.com
+       SMTP Password:
+       
+        
+
+
+Step 3 
+
+
+
+
+
+

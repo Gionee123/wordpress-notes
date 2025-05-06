@@ -1,0 +1,26 @@
+web site open karne per ake loader dekhi deta hai
+
+method first
+
+ step 1 ->  Preloader // By Alobaidi <- plugin install kar ge
+
+ step 2 -> left me or setting me kahi bhi option dekhi nahi de raha hai .plugin jah sare plugin install hai wha per preloader ka option mel ga 
+
+ step 3 -> (header.php)  me is div wale  code ko install karne hai  <div id="wptime-plugin-preloader"></div>
+
+ header.php open karne ke liye
+
+ Appearance -> Theme Editor -> header.php (file to hai he nahi) koi child theme ko select kiya hai ->  parent theme ko select kar ge "header.php " ke file select ho jaygi
+
+ body ke niche div ko past kar do
+ <div id="wptime-plugin-preloader"></div>
+
+mehod second
+
+wamserver -> www -> travel -> wp-content -> theme -> traveltour(parent theme) -> header.php ->  body ke niche div ko past kar do
+ <div id="wptime-plugin-preloader"></div>
+
+
+note 1 -> Background Color main change kiya hai pehal white ta abe red kiya hai
+
+note 2 -> muje image bhi change karni hai (wamserver-> travel> wp-content> plugins> the-preloader> images> preloader.GIF) apni image download kar ke is folder past or name change kar do
