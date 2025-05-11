@@ -1,0 +1,61 @@
+jab muje apni website ko dusre ko handle karne dena hai jab user create karte hai
+
+step1- left me "user" ka panel atta hai
+
+add user (new user create kar raha hu) -> 
+
+
+Username (required)	demo
+Email (required)	menkasaini1990@gmail.com
+First Name	        menka
+Last Name               saini
+Website	
+Password	        Generate password
+
+Confirm Password	 Confirm use of weak password
+Send User Notification	 Send the new user an email about their account
+Role	                 [Administrator-> pure vasie he vasie ban jo gye jese admin admin open hota hai]
+                         [Contributor-> username:demo,password:demo]
+]
+
+
+WordPress के मुख्य User Roles:
+     Administrator
+
+Full control होता है site पर
+
+Themes, plugins install/update/delete कर सकता है
+
+Users को manage कर सकता है
+
+Content लिख, edit, publish और delete कर सकता है (दूसरों का भी)
+
+     Editor
+
+खुद और दूसरे authors के posts को publish, edit, delete कर सकता है
+
+Pages को manage कर सकता है
+
+Comments को manage कर सकता है
+
+Users या site settings access नहीं कर सकता
+
+     Author
+
+केवल अपने posts लिख, edit, publish और delete कर सकता है
+
+Media files upload कर सकता है
+
+   Contributor
+
+Post लिख सकता है लेकिन publish नहीं कर सकता
+
+Media upload नहीं कर सकता
+
+Editor या Administrator approval के बाद post publish होता है
+
+   Subscriber
+
+केवल login कर सकता है और अपनी profile manage कर सकता है
+
+आमतौर पर membership या commenting purposes के लिए उपयोग होता है

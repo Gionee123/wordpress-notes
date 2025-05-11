@@ -33,15 +33,13 @@
 
 17) Accordion FAQ – Compatible With All Page Builder (Elementor, Gutenberg) //By wpshopmart
 
+18) Translate WordPress with GTranslate //By edo888 (all language me transform karne ke liye)
 
+19) Responsive Menu – Create Mobile-Friendly Menu // By ExpressTech Systems
 
-16)
+20) Registration, User Profile, Membership, Content Restriction, User Directory, and Frontend Post Submission – WP User Frontend //By Tareq Hasan
 
-16)
+21)
 
-16)
-
-16)
-
-16)
+22)
 
