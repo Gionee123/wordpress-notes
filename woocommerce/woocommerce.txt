@@ -1,0 +1,44 @@
+WooCommerce ke Default Pages:
+
+Shop –
+Products dikhane ke liye (product archive page).
+URL: yourdomain.com/shop
+
+Cart –
+Customer ke selected items dikhane ke liye.
+URL: yourdomain.com/cart
+
+Checkout –
+Order place karne ke liye form.
+URL: yourdomain.com/checkout
+
+My Account –
+Customer ka dashboard (orders, account details, login/logout).
+URL: yourdomain.com/my-account
+
+---------------------------------------------------------------------------------------------------------------
+abhi screen per two page rekhe hai (Home ,Shop)
+
+WordPress में WooCommerce के "Shop" पेज का नाम frontend पर कैसे बदलें, जबकि backend में उसका नाम "Shop" ही बना रहे?
+
+Appearance > Menus >Menu Structure में "Shop" नाम वाले आइटम को ढूंढें।  > उस पर क्लिक करें और Navigation Label में जो नाम दिखाना है वो लिखें।
+उदाहरण: "Products", "Store", "Our Collection" आदि।
+नीचे जाकर Save Menu बटन पर क्लिक करें।
+
+---------------------------------------------------------------------------------------------------------------
+WooCommerce में products एडिट करते समय, "Man" और "Women" categories इस तरह दिखेंगी:
+WordPress Dashboard में जाएं।
+
+बाएं साइडबार में Products > Categories पर क्लिक करें।
+
+Name फील्ड में पहले "Man" लिखें और Add New Category पर क्लिक करें।
+
+फिर Name में "Women" लिखें और उसे भी Add New Category करें।
+
+दोनों categories अब आपके product category लिस्ट में जुड़ जाएंगी।
+---------------------------------------------------------------------------------------------------------------
+मैंने WooCommerce में "Man" और "Women" नाम की दो categories बनाई हैं — अब ये categories मुझे product में कहाँ और कैसे दिखेंगी?
+apperance  -> menu -> top right me Screen Options -> (Pages Posts Products CustomLinks ,Categories ,Tags ,Brands ,Product categories ,Product tagsWooCommerce endpoints)
+
+
+

@@ -39,7 +39,7 @@
 
 20) Registration, User Profile, Membership, Content Restriction, User Directory, and Frontend Post Submission – WP User Frontend //By Tareq Hasan
 
-21)
+21) WooCommerce //By Automattic
 
 22)
 
