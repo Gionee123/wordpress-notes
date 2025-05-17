@@ -39,6 +39,107 @@ Name फील्ड में पहले "Man" लिखें और Add New
 ---------------------------------------------------------------------------------------------------------------
 मैंने WooCommerce में "Man" और "Women" नाम की दो categories बनाई हैं — अब ये categories मुझे product में कहाँ और कैसे दिखेंगी?
 apperance  -> menu -> top right me Screen Options -> (Pages Posts Products CustomLinks ,Categories ,Tags ,Brands ,Product categories ,Product tagsWooCommerce endpoints)
+---------------------------------------------------------------------------------------------------------------
+ woocommerce me 1 लाइन में 4 प्रोडक्ट दिखाने का आसान तरीका (Customizer से)
+
+क्लिक करें: Appearance → Customize
+
+अब जाएँ: WooCommerce → Product Catalog
+
+वहाँ आपको ये ऑप्शन दिखेगा:
+
+Products per row → इसे 4 कर दीजिए
+
+(Optional) Rows per page → जितने चाहें उतने set करें (जैसे 3, 4)
+
+ऊपर “Publish” बटन दबाएँ ✅
+
+ इसका असर कहाँ दिखेगा?
+Shop page (yoursite.com/shop)
+
+Category pages
+
+Product archive (tag, search, etc.)
+---------------------------------------------------------------------------------------------------------------
+मैं WooCommerce में चाहता हूँ कि "Men" category में sidebar न दिखे, लेकिन "Women" category में sidebar दिखे — कैसे करें?
+
+Appearance -> theme editor -> style.css
+
+ "shirt" (Men) category में sidebar hide करना है
+
+.term-22 .widget-area {
+    display: none !important;
+}
+.term-22 .content-area {
+    width: 100%;
+}
+
+main ne  दो body class दी हैं जो WooCommerce के category pages की हैं:
+
+🧾 1. "Men" Category (slug: shirt)
+class="archive tax-product_cat term-shirt term-22 ..."
+
+🧾 2. "Women" Category (slug: shirt-women)
+class="archive tax-product_cat term-shirt-women term-23 ..."
+
+✅ अब आपका उद्देश्य:
+"shirt" (Men) category में sidebar hide करना है
+"shirt-women" category में sidebar दिखाना है
+
+🔧 CSS समाधान:
+आप नीचे दिया गया CSS को अपनी Customizer > Additional CSS में डालें:
 
 
+/* Men (shirt) category में sidebar छिपाएं */
+body.term-shirt .widget-area {
+    display: none !important;
+}
+
+/* Women (shirt-women) category में sidebar दिखाएं */
+body.term-shirt-women .widget-area {
+    display: block !important;
+}
+📝 नोट:
+term-shirt और term-shirt-women = यह WordPress ने category slug के अनुसार class दी है।
+
+.widget-area = Storefront थीम में sidebar के लिए उपयोग की जाने वाली default class है।
+
+🎯 नतीजा:
+Category	Sidebar दिखाई देगा?
+shirt (Men)	❌ No (छिपेगा)
+shirt-women	✅ Yes (दिखेगा)
+---------------------------------------------------------------------------------------------------------------
+
+WooCommerce में Shipping Charges कैसे जोड़ते हैं?
+
+🔹 Step 1: WooCommerce Settings में जाएँ
+WordPress Dashboard → WooCommerce → Settings
+
+फिर ऊपर टैब में से Shipping पर क्लिक करें
+
+🔹 Step 2: Shipping Zone बनाएं
+"Shipping Zones" टैब में जाएं
+
+"Add shipping zone" पर क्लिक करें
+
+Zone का नाम दें (जैसे "India") और उस Region को चुनें जहाँ आप सामान भेजते हैं
+
+🔹 Step 3: Shipping Method जोड़ें
+उसी ज़ोन के अंदर "Add shipping method" पर क्लिक करें
+
+आप में से कोई एक चुन सकते हैं:
+
+Flat Rate (फिक्स चार्ज)
+
+Free Shipping
+
+Local Pickup
+
+🔹 Step 4: Flat Rate सेट करें (Shipping Charges जोड़ने के लिए)
+अगर आपने "Flat Rate" चुना है → "Edit" पर क्लिक करें
+
+Amount भरें (जैसे ₹50 या ₹100)
+
+Tax status चुनें (Taxable या None)
+---------------------------------------------------------------------------------------------------------------
 
