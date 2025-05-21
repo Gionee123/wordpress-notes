@@ -43,5 +43,9 @@
 
 22) YITH Request a Quote for WooCommerce //By YITHEMES
 
+23) Smush Image Optimization – Optimize Images | Compress & Lazy Load Images | Convert WebP & AVIF | Image CDN //By WPMU DEV - Your All-in-One WordPress Platform
+
+24) Autoptimize //By Optimizing Matters (Autoptimize speeds up your website by optimizing JS, CSS, images (incl. lazy-load), HTML and Google Fonts, asyncing JS, removing emoji cruft and more.
+
 
 
